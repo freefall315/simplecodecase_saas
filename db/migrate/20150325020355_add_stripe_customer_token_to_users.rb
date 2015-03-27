@@ -3,3 +3,4 @@ class AddStripeCustomerTokenToUsers < ActiveRecord::Migration
     add_column :users, :stripe_customer_token, :string
   end
 end
+
