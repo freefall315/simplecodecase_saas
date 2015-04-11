@@ -1,3 +1,13 @@
+.user-show-avatar {
+  border-radius: 50% ;
+           -webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+            -moz-box-shadow:    0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+            box-shadow:         0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+            border: 2px solid white;
+  height: 128px;
+  width: 128px;
+}
+
 .job-title-icon {
   width: 30px;
   height: 30px;
@@ -28,11 +38,11 @@
   }
 
 
-.round-image-50 {
-     img { border-radius: 50% ;
+.user-index-avatar {
+            border-radius: 50% ;
            -webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.75);
             -moz-box-shadow:    0px 5px 11px 0px rgba(50, 50, 50, 0.75);
             box-shadow:         0px 5px 11px 0px rgba(50, 50, 50, 0.75);
             border: 2px solid white;
-     }
+     
 }
